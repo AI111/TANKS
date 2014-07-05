@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<list>
+  <person>
+    <id>0</id>
+    <regX>0</regX>
+    <regY>0</regY>
+    <angle>0</angle>
+    <name>gress</name>
+  </person>
+  <person>
+    <id>1</id>
+    <regX>32</regX>
+    <regY>0</regY>
+    <angle>0</angle>
+    <name>box</name>
+  </person>
+<person>
+    <id>2</id>
+    <regX>64</regX>
+    <regY>0</regY>
+    <angle>45</angle>
+    <name>tank</name>
+  </person>
+<person>
+    <id>3</id>
+    <regX>96</regX>
+    <regY>0</regY>
+    <angle>0</angle>
+    <name>tank</name>
+  </person>
+<person>
+    <id>4</id>
+    <regX>128</regX>
+    <regY>0</regY>
+    <angle>0</angle>
+    <name>tank</name>
+  </person>
+<person>
+    <id>5</id>
+    <regX>164</regX>
+    <regY>0</regY>
+    <angle>0</angle>
+    <name>tank</name>
+  </person>
+</list>
